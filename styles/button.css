@@ -1,0 +1,49 @@
+.button {
+    padding: 10px 15px;
+    border-radius: 15px;
+    background-color: #fff;
+}
+
+.button__text {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.button_bgcolor-black {
+    background-color: #000;
+}
+
+.button_textcolor-yellow {
+    color: #ffff00;
+}
+
+.button_bgcolor-red {
+    background-color: #ff0000;
+}
+
+.button_textcolor-white {
+    color: #fff;
+}
+
+.button_bgcolor-green {
+    background-color: #008000;
+}
+
+.button_textcolor-blue {
+    color: #0000ff;
+}
+
+.button_bgcolor-yellow {
+    background-color: #ffff00;
+}
+
+.button_position-left {
+    margin-inline-end: auto;
+}
+
+.button_position-right {
+    margin-inline-start: auto;
+}
+
+.button_position-center {
+    margin: 0 auto;
+}
